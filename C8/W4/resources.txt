@@ -1,0 +1,8 @@
+https://dash.plotly.com/
+https://community.plotly.com/c/python/25
+https://dash.plotly.com/dash-html-components
+https://dash.plotly.com/dash-core-components
+https://medium.com/plotly/tagged/dash
+
+https://dash.gallery/Portal/
+https://realpython.com/primer-on-python-decorators/
